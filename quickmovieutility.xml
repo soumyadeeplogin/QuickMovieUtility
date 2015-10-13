@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-10-12T17:02:26</date>
+  <millis>1444649546073</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>qmu_pack_v3_0.QuickMovieUtility</class>
+  <method>initialize</method>
+  <thread>15</thread>
+  <message>Contructor :: qmu_pack_v3_0.QuickMovieUtility.</message>
+</record>
+<record>
+  <date>2015-10-12T17:02:26</date>
+  <millis>1444649546189</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>qmu_pack_v3_0.QuickMovieUtility</class>
+  <method>initialize</method>
+  <thread>15</thread>
+  <message>User :: sroy</message>
+</record>
+</log>
